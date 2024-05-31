@@ -1,1 +1,1 @@
- LeetCode is a platform that allows you to better your coding skills so you can better prepare for interviews.
+ LeetCode is a platform that allows to better coding skills so you can better prepare for interviews.
