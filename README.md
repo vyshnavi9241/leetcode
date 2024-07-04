@@ -6,10 +6,12 @@
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vyshnavi9241/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/vyshnavi9241/leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vyshnavi9241/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/vyshnavi9241/leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -18,4 +20,8 @@
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vyshnavi9241/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Hash Table
+|  |
+| ------- |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/vyshnavi9241/leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 <!---LeetCode Topics End-->
