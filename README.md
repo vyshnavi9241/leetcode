@@ -8,6 +8,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/vyshnavi9241/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0354-russian-doll-envelopes](https://github.com/vyshnavi9241/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vyshnavi9241/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vyshnavi9241/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1087-longest-arithmetic-subsequence](https://github.com/vyshnavi9241/leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1105-uncrossed-lines](https://github.com/vyshnavi9241/leetcode/tree/master/1105-uncrossed-lines) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/vyshnavi9241/leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -18,6 +19,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/vyshnavi9241/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0354-russian-doll-envelopes](https://github.com/vyshnavi9241/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vyshnavi9241/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vyshnavi9241/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1087-longest-arithmetic-subsequence](https://github.com/vyshnavi9241/leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1105-uncrossed-lines](https://github.com/vyshnavi9241/leetcode/tree/master/1105-uncrossed-lines) |
 | [1250-longest-common-subsequence](https://github.com/vyshnavi9241/leetcode/tree/master/1250-longest-common-subsequence) |
@@ -52,4 +54,8 @@
 | ------- |
 | [1250-longest-common-subsequence](https://github.com/vyshnavi9241/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vyshnavi9241/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+## Greedy
+|  |
+| ------- |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vyshnavi9241/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 <!---LeetCode Topics End-->
