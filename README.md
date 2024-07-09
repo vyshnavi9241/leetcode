@@ -16,6 +16,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/vyshnavi9241/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/vyshnavi9241/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0354-russian-doll-envelopes](https://github.com/vyshnavi9241/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vyshnavi9241/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -58,4 +59,20 @@
 |  |
 | ------- |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vyshnavi9241/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+## Math
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/vyshnavi9241/leetcode/tree/master/0096-unique-binary-search-trees) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/vyshnavi9241/leetcode/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/vyshnavi9241/leetcode/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/vyshnavi9241/leetcode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
