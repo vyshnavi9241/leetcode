@@ -37,6 +37,7 @@
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/vyshnavi9241/leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vyshnavi9241/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2262-solving-questions-with-brainpower](https://github.com/vyshnavi9241/leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [2562-count-ways-to-build-good-strings](https://github.com/vyshnavi9241/leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 ## Binary Indexed Tree
 |  |
 | ------- |
