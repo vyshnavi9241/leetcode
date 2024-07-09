@@ -12,6 +12,7 @@
 | [0518-coin-change-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vyshnavi9241/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vyshnavi9241/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1025-minimum-cost-for-tickets](https://github.com/vyshnavi9241/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1087-longest-arithmetic-subsequence](https://github.com/vyshnavi9241/leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1105-uncrossed-lines](https://github.com/vyshnavi9241/leetcode/tree/master/1105-uncrossed-lines) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/vyshnavi9241/leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -32,6 +33,7 @@
 | [0518-coin-change-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vyshnavi9241/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vyshnavi9241/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1025-minimum-cost-for-tickets](https://github.com/vyshnavi9241/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1087-longest-arithmetic-subsequence](https://github.com/vyshnavi9241/leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1105-uncrossed-lines](https://github.com/vyshnavi9241/leetcode/tree/master/1105-uncrossed-lines) |
 | [1250-longest-common-subsequence](https://github.com/vyshnavi9241/leetcode/tree/master/1250-longest-common-subsequence) |
