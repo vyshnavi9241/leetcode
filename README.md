@@ -16,6 +16,7 @@
 | [1087-longest-arithmetic-subsequence](https://github.com/vyshnavi9241/leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1105-uncrossed-lines](https://github.com/vyshnavi9241/leetcode/tree/master/1105-uncrossed-lines) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/vyshnavi9241/leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/vyshnavi9241/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/vyshnavi9241/leetcode/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2262-solving-questions-with-brainpower](https://github.com/vyshnavi9241/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 ## Dynamic Programming
