@@ -84,6 +84,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/vyshnavi9241/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/vyshnavi9241/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vyshnavi9241/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vyshnavi9241/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/vyshnavi9241/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Greedy
 |  |
@@ -138,4 +139,5 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/vyshnavi9241/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vyshnavi9241/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
