@@ -22,6 +22,7 @@
 | [1105-uncrossed-lines](https://github.com/vyshnavi9241/leetcode/tree/master/1105-uncrossed-lines) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/vyshnavi9241/leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/vyshnavi9241/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vyshnavi9241/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vyshnavi9241/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/vyshnavi9241/leetcode/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2262-solving-questions-with-brainpower](https://github.com/vyshnavi9241/leetcode/tree/master/2262-solving-questions-with-brainpower) |
@@ -47,6 +48,7 @@
 | [1250-longest-common-subsequence](https://github.com/vyshnavi9241/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/vyshnavi9241/leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vyshnavi9241/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vyshnavi9241/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2262-solving-questions-with-brainpower](https://github.com/vyshnavi9241/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2562-count-ways-to-build-good-strings](https://github.com/vyshnavi9241/leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 ## Binary Indexed Tree
@@ -143,6 +145,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/vyshnavi9241/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/vyshnavi9241/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vyshnavi9241/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vyshnavi9241/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
 |  |
 | ------- |
