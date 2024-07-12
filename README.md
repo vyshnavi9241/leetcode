@@ -71,6 +71,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/vyshnavi9241/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/vyshnavi9241/leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/vyshnavi9241/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1777-determine-if-two-strings-are-close](https://github.com/vyshnavi9241/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vyshnavi9241/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Binary Search
 |  |
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/vyshnavi9241/leetcode/tree/master/0354-russian-doll-envelopes) |
+| [1777-determine-if-two-strings-are-close](https://github.com/vyshnavi9241/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vyshnavi9241/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## String
 |  |
@@ -95,6 +97,7 @@
 | [1250-longest-common-subsequence](https://github.com/vyshnavi9241/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vyshnavi9241/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vyshnavi9241/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1777-determine-if-two-strings-are-close](https://github.com/vyshnavi9241/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/vyshnavi9241/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Greedy
 |  |
@@ -158,4 +161,8 @@
 | [0724-find-pivot-index](https://github.com/vyshnavi9241/leetcode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/vyshnavi9241/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/vyshnavi9241/leetcode/tree/master/1833-find-the-highest-altitude) |
+## Counting
+|  |
+| ------- |
+| [1777-determine-if-two-strings-are-close](https://github.com/vyshnavi9241/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 <!---LeetCode Topics End-->
