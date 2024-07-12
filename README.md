@@ -24,6 +24,7 @@
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/vyshnavi9241/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vyshnavi9241/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vyshnavi9241/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1833-find-the-highest-altitude](https://github.com/vyshnavi9241/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/vyshnavi9241/leetcode/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2262-solving-questions-with-brainpower](https://github.com/vyshnavi9241/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 ## Dynamic Programming
@@ -150,4 +151,5 @@
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/vyshnavi9241/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1833-find-the-highest-altitude](https://github.com/vyshnavi9241/leetcode/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
