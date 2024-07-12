@@ -30,6 +30,7 @@
 | [1833-find-the-highest-altitude](https://github.com/vyshnavi9241/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/vyshnavi9241/leetcode/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2262-solving-questions-with-brainpower](https://github.com/vyshnavi9241/leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [2428-equal-row-and-column-pairs](https://github.com/vyshnavi9241/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 | [1392-find-the-difference-of-two-arrays](https://github.com/vyshnavi9241/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/vyshnavi9241/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vyshnavi9241/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2428-equal-row-and-column-pairs](https://github.com/vyshnavi9241/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -165,4 +167,12 @@
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/vyshnavi9241/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+## Matrix
+|  |
+| ------- |
+| [2428-equal-row-and-column-pairs](https://github.com/vyshnavi9241/leetcode/tree/master/2428-equal-row-and-column-pairs) |
+## Simulation
+|  |
+| ------- |
+| [2428-equal-row-and-column-pairs](https://github.com/vyshnavi9241/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
