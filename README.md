@@ -17,6 +17,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vyshnavi9241/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vyshnavi9241/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/vyshnavi9241/leetcode/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/vyshnavi9241/leetcode/tree/master/0735-asteroid-collision) |
 | [1025-minimum-cost-for-tickets](https://github.com/vyshnavi9241/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1046-max-consecutive-ones-iii](https://github.com/vyshnavi9241/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/vyshnavi9241/leetcode/tree/master/1087-longest-arithmetic-subsequence) |
@@ -175,10 +176,12 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/vyshnavi9241/leetcode/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/vyshnavi9241/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/vyshnavi9241/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/vyshnavi9241/leetcode/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/vyshnavi9241/leetcode/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
