@@ -97,6 +97,7 @@
 | [0394-decode-string](https://github.com/vyshnavi9241/leetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/vyshnavi9241/leetcode/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/vyshnavi9241/leetcode/tree/master/0474-ones-and-zeroes) |
+| [0649-dota2-senate](https://github.com/vyshnavi9241/leetcode/tree/master/0649-dota2-senate) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/vyshnavi9241/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/vyshnavi9241/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vyshnavi9241/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -109,6 +110,7 @@
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/vyshnavi9241/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/vyshnavi9241/leetcode/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/vyshnavi9241/leetcode/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vyshnavi9241/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Math
 |  |
@@ -190,4 +192,8 @@
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/vyshnavi9241/leetcode/tree/master/0394-decode-string) |
+## Queue
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/vyshnavi9241/leetcode/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
