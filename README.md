@@ -155,6 +155,7 @@
 | [0443-string-compression](https://github.com/vyshnavi9241/leetcode/tree/master/0443-string-compression) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vyshnavi9241/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/vyshnavi9241/leetcode/tree/master/1894-merge-strings-alternately) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/vyshnavi9241/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
@@ -205,4 +206,8 @@
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/vyshnavi9241/leetcode/tree/master/0969-number-of-recent-calls) |
+## Linked List
+|  |
+| ------- |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/vyshnavi9241/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
