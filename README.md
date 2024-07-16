@@ -124,6 +124,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/vyshnavi9241/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0337-house-robber-iii](https://github.com/vyshnavi9241/leetcode/tree/master/0337-house-robber-iii) |
+| [0437-path-sum-iii](https://github.com/vyshnavi9241/leetcode/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/vyshnavi9241/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/vyshnavi9241/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
@@ -137,6 +138,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/vyshnavi9241/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0337-house-robber-iii](https://github.com/vyshnavi9241/leetcode/tree/master/0337-house-robber-iii) |
+| [0437-path-sum-iii](https://github.com/vyshnavi9241/leetcode/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/vyshnavi9241/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/vyshnavi9241/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Backtracking
@@ -147,6 +149,7 @@
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/vyshnavi9241/leetcode/tree/master/0337-house-robber-iii) |
+| [0437-path-sum-iii](https://github.com/vyshnavi9241/leetcode/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/vyshnavi9241/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/vyshnavi9241/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
