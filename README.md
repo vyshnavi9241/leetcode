@@ -34,6 +34,7 @@
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/vyshnavi9241/leetcode/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2262-solving-questions-with-brainpower](https://github.com/vyshnavi9241/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2428-equal-row-and-column-pairs](https://github.com/vyshnavi9241/leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [2636-maximum-subsequence-score](https://github.com/vyshnavi9241/leetcode/tree/master/2636-maximum-subsequence-score) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 | [0354-russian-doll-envelopes](https://github.com/vyshnavi9241/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [1777-determine-if-two-strings-are-close](https://github.com/vyshnavi9241/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vyshnavi9241/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2636-maximum-subsequence-score](https://github.com/vyshnavi9241/leetcode/tree/master/2636-maximum-subsequence-score) |
 ## String
 |  |
 | ------- |
@@ -116,6 +118,7 @@
 | [0605-can-place-flowers](https://github.com/vyshnavi9241/leetcode/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/vyshnavi9241/leetcode/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vyshnavi9241/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [2636-maximum-subsequence-score](https://github.com/vyshnavi9241/leetcode/tree/master/2636-maximum-subsequence-score) |
 ## Math
 |  |
 | ------- |
@@ -265,4 +268,5 @@
 |  |
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/vyshnavi9241/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
+| [2636-maximum-subsequence-score](https://github.com/vyshnavi9241/leetcode/tree/master/2636-maximum-subsequence-score) |
 <!---LeetCode Topics End-->
