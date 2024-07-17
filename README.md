@@ -158,6 +158,7 @@
 | ------- |
 | [0337-house-robber-iii](https://github.com/vyshnavi9241/leetcode/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/vyshnavi9241/leetcode/tree/master/0437-path-sum-iii) |
+| [0547-number-of-provinces](https://github.com/vyshnavi9241/leetcode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/vyshnavi9241/leetcode/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/vyshnavi9241/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/vyshnavi9241/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -167,6 +168,7 @@
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/vyshnavi9241/leetcode/tree/master/0279-perfect-squares) |
+| [0547-number-of-provinces](https://github.com/vyshnavi9241/leetcode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/vyshnavi9241/leetcode/tree/master/0871-keys-and-rooms) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/vyshnavi9241/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/vyshnavi9241/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -242,5 +244,10 @@
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/vyshnavi9241/leetcode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/vyshnavi9241/leetcode/tree/master/0871-keys-and-rooms) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/vyshnavi9241/leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
