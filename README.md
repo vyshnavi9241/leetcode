@@ -34,6 +34,7 @@
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/vyshnavi9241/leetcode/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2262-solving-questions-with-brainpower](https://github.com/vyshnavi9241/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2428-equal-row-and-column-pairs](https://github.com/vyshnavi9241/leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/vyshnavi9241/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/vyshnavi9241/leetcode/tree/master/2636-maximum-subsequence-score) |
 ## Dynamic Programming
 |  |
@@ -192,6 +193,7 @@
 | [1894-merge-strings-alternately](https://github.com/vyshnavi9241/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/vyshnavi9241/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/vyshnavi9241/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/vyshnavi9241/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -221,6 +223,7 @@
 | [0735-asteroid-collision](https://github.com/vyshnavi9241/leetcode/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/vyshnavi9241/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/vyshnavi9241/leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/vyshnavi9241/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Stack
 |  |
 | ------- |
@@ -268,5 +271,6 @@
 |  |
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/vyshnavi9241/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/vyshnavi9241/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/vyshnavi9241/leetcode/tree/master/2636-maximum-subsequence-score) |
 <!---LeetCode Topics End-->
