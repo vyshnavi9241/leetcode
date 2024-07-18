@@ -86,6 +86,7 @@
 |  |
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/vyshnavi9241/leetcode/tree/master/0354-russian-doll-envelopes) |
+| [0374-guess-number-higher-or-lower](https://github.com/vyshnavi9241/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [1046-max-consecutive-ones-iii](https://github.com/vyshnavi9241/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/vyshnavi9241/leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/vyshnavi9241/leetcode/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
@@ -273,4 +274,8 @@
 | [2413-smallest-number-in-infinite-set](https://github.com/vyshnavi9241/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/vyshnavi9241/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/vyshnavi9241/leetcode/tree/master/2636-maximum-subsequence-score) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/vyshnavi9241/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
