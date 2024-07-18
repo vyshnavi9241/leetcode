@@ -50,6 +50,7 @@
 | [0279-perfect-squares](https://github.com/vyshnavi9241/leetcode/tree/master/0279-perfect-squares) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/vyshnavi9241/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0337-house-robber-iii](https://github.com/vyshnavi9241/leetcode/tree/master/0337-house-robber-iii) |
+| [0338-counting-bits](https://github.com/vyshnavi9241/leetcode/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/vyshnavi9241/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/vyshnavi9241/leetcode/tree/master/0377-combination-sum-iv) |
 | [0435-non-overlapping-intervals](https://github.com/vyshnavi9241/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -309,5 +310,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/vyshnavi9241/leetcode/tree/master/0338-counting-bits) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/vyshnavi9241/leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 <!---LeetCode Topics End-->
