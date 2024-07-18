@@ -238,6 +238,7 @@
 | ------- |
 | [0394-decode-string](https://github.com/vyshnavi9241/leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/vyshnavi9241/leetcode/tree/master/0735-asteroid-collision) |
+| [0937-online-stock-span](https://github.com/vyshnavi9241/leetcode/tree/master/0937-online-stock-span) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/vyshnavi9241/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/vyshnavi9241/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Recursion
@@ -253,11 +254,13 @@
 ## Design
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/vyshnavi9241/leetcode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/vyshnavi9241/leetcode/tree/master/0969-number-of-recent-calls) |
 | [2413-smallest-number-in-infinite-set](https://github.com/vyshnavi9241/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Data Stream
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/vyshnavi9241/leetcode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/vyshnavi9241/leetcode/tree/master/0969-number-of-recent-calls) |
 ## Linked List
 |  |
@@ -286,4 +289,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/vyshnavi9241/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/vyshnavi9241/leetcode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
