@@ -33,6 +33,7 @@
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/vyshnavi9241/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/vyshnavi9241/leetcode/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2262-solving-questions-with-brainpower](https://github.com/vyshnavi9241/leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/vyshnavi9241/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/vyshnavi9241/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/vyshnavi9241/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/vyshnavi9241/leetcode/tree/master/2636-maximum-subsequence-score) |
@@ -90,12 +91,14 @@
 | [1046-max-consecutive-ones-iii](https://github.com/vyshnavi9241/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/vyshnavi9241/leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/vyshnavi9241/leetcode/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/vyshnavi9241/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Sorting
 |  |
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/vyshnavi9241/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [1777-determine-if-two-strings-are-close](https://github.com/vyshnavi9241/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vyshnavi9241/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/vyshnavi9241/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2636-maximum-subsequence-score](https://github.com/vyshnavi9241/leetcode/tree/master/2636-maximum-subsequence-score) |
 ## String
 |  |
@@ -194,6 +197,7 @@
 | [1894-merge-strings-alternately](https://github.com/vyshnavi9241/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/vyshnavi9241/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/vyshnavi9241/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/vyshnavi9241/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/vyshnavi9241/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Sliding Window
 |  |
