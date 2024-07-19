@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/vyshnavi9241/leetcode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/vyshnavi9241/leetcode/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/vyshnavi9241/leetcode/tree/master/0216-combination-sum-iii) |
 | [0283-move-zeroes](https://github.com/vyshnavi9241/leetcode/tree/master/0283-move-zeroes) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/vyshnavi9241/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -177,6 +178,7 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/vyshnavi9241/leetcode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/vyshnavi9241/leetcode/tree/master/0078-subsets) |
 | [0095-unique-binary-search-trees-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0216-combination-sum-iii](https://github.com/vyshnavi9241/leetcode/tree/master/0216-combination-sum-iii) |
 ## Depth-First Search
@@ -312,6 +314,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/vyshnavi9241/leetcode/tree/master/0078-subsets) |
 | [0338-counting-bits](https://github.com/vyshnavi9241/leetcode/tree/master/0338-counting-bits) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/vyshnavi9241/leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 <!---LeetCode Topics End-->
