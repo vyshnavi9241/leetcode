@@ -15,6 +15,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/vyshnavi9241/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/vyshnavi9241/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/vyshnavi9241/leetcode/tree/master/0377-combination-sum-iv) |
+| [0416-partition-equal-subset-sum](https://github.com/vyshnavi9241/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/vyshnavi9241/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/vyshnavi9241/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0518-coin-change-ii) |
@@ -61,6 +62,7 @@
 | [0338-counting-bits](https://github.com/vyshnavi9241/leetcode/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/vyshnavi9241/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/vyshnavi9241/leetcode/tree/master/0377-combination-sum-iv) |
+| [0416-partition-equal-subset-sum](https://github.com/vyshnavi9241/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/vyshnavi9241/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/vyshnavi9241/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0518-coin-change-ii) |
