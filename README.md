@@ -7,6 +7,7 @@
 | ------- |
 | [0051-n-queens](https://github.com/vyshnavi9241/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/vyshnavi9241/leetcode/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/vyshnavi9241/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/vyshnavi9241/leetcode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/vyshnavi9241/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0216-combination-sum-iii](https://github.com/vyshnavi9241/leetcode/tree/master/0216-combination-sum-iii) |
@@ -291,6 +292,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/vyshnavi9241/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/vyshnavi9241/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/vyshnavi9241/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/vyshnavi9241/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/vyshnavi9241/leetcode/tree/master/0394-decode-string) |
@@ -359,6 +361,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/vyshnavi9241/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0937-online-stock-span](https://github.com/vyshnavi9241/leetcode/tree/master/0937-online-stock-span) |
 ## Trie
 |  |
