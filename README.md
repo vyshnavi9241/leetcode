@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/vyshnavi9241/leetcode/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/vyshnavi9241/leetcode/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/vyshnavi9241/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/vyshnavi9241/leetcode/tree/master/0078-subsets) |
@@ -242,6 +243,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/vyshnavi9241/leetcode/tree/master/0031-next-permutation) |
 | [0142-linked-list-cycle-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vyshnavi9241/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/vyshnavi9241/leetcode/tree/master/0234-palindrome-linked-list) |
