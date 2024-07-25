@@ -404,4 +404,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vyshnavi9241/leetcode/tree/master/0239-sliding-window-maximum) |
+## Database
+|  |
+| ------- |
+| [1827-invalid-tweets](https://github.com/vyshnavi9241/leetcode/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->
