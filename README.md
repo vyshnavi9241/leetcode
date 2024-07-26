@@ -408,6 +408,7 @@
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/vyshnavi9241/leetcode/tree/master/0197-rising-temperature) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/vyshnavi9241/leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/vyshnavi9241/leetcode/tree/master/0577-employee-bonus) |
 | [1153-product-sales-analysis-i](https://github.com/vyshnavi9241/leetcode/tree/master/1153-product-sales-analysis-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/vyshnavi9241/leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
