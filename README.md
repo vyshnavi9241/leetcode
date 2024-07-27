@@ -8,6 +8,7 @@
 | [0031-next-permutation](https://github.com/vyshnavi9241/leetcode/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/vyshnavi9241/leetcode/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/vyshnavi9241/leetcode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/vyshnavi9241/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/vyshnavi9241/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/vyshnavi9241/leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vyshnavi9241/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/vyshnavi9241/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/vyshnavi9241/leetcode/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/vyshnavi9241/leetcode/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/vyshnavi9241/leetcode/tree/master/0096-unique-binary-search-trees) |
@@ -390,6 +392,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/vyshnavi9241/leetcode/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/vyshnavi9241/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
