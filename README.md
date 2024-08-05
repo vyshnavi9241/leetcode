@@ -422,6 +422,7 @@
 | [1161-project-employees-i](https://github.com/vyshnavi9241/leetcode/tree/master/1161-project-employees-i) |
 | [1182-game-play-analysis-iv](https://github.com/vyshnavi9241/leetcode/tree/master/1182-game-play-analysis-iv) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/vyshnavi9241/leetcode/tree/master/1245-user-activity-for-the-past-30-days-i) |
+| [1278-product-price-at-a-given-date](https://github.com/vyshnavi9241/leetcode/tree/master/1278-product-price-at-a-given-date) |
 | [1292-immediate-food-delivery-ii](https://github.com/vyshnavi9241/leetcode/tree/master/1292-immediate-food-delivery-ii) |
 | [1338-queries-quality-and-percentage](https://github.com/vyshnavi9241/leetcode/tree/master/1338-queries-quality-and-percentage) |
 | [1415-students-and-examinations](https://github.com/vyshnavi9241/leetcode/tree/master/1415-students-and-examinations) |
