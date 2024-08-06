@@ -436,5 +436,6 @@
 | [1877-find-followers-count](https://github.com/vyshnavi9241/leetcode/tree/master/1877-find-followers-count) |
 | [2057-count-salary-categories](https://github.com/vyshnavi9241/leetcode/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/vyshnavi9241/leetcode/tree/master/2087-confirmation-rate) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/vyshnavi9241/leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/vyshnavi9241/leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
