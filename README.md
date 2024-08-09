@@ -60,6 +60,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/vyshnavi9241/leetcode/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/vyshnavi9241/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/vyshnavi9241/leetcode/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/vyshnavi9241/leetcode/tree/master/0091-decode-ways) |
@@ -148,6 +149,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/vyshnavi9241/leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/vyshnavi9241/leetcode/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/vyshnavi9241/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0091-decode-ways](https://github.com/vyshnavi9241/leetcode/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/vyshnavi9241/leetcode/tree/master/0131-palindrome-partitioning) |
@@ -320,6 +322,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/vyshnavi9241/leetcode/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/vyshnavi9241/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/vyshnavi9241/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vyshnavi9241/leetcode/tree/master/0234-palindrome-linked-list) |
