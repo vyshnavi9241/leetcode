@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/vyshnavi9241/leetcode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/vyshnavi9241/leetcode/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/vyshnavi9241/leetcode/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/vyshnavi9241/leetcode/tree/master/0051-n-queens) |
@@ -135,6 +136,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/vyshnavi9241/leetcode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/vyshnavi9241/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vyshnavi9241/leetcode/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/vyshnavi9241/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -255,6 +257,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/vyshnavi9241/leetcode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/vyshnavi9241/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/vyshnavi9241/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vyshnavi9241/leetcode/tree/master/0088-merge-sorted-array) |
