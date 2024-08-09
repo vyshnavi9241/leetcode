@@ -186,6 +186,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/vyshnavi9241/leetcode/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/vyshnavi9241/leetcode/tree/master/0029-divide-two-integers) |
 | [0096-unique-binary-search-trees](https://github.com/vyshnavi9241/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0279-perfect-squares](https://github.com/vyshnavi9241/leetcode/tree/master/0279-perfect-squares) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/vyshnavi9241/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -396,6 +397,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/vyshnavi9241/leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/vyshnavi9241/leetcode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/vyshnavi9241/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/vyshnavi9241/leetcode/tree/master/0338-counting-bits) |
