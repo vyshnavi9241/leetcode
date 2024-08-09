@@ -147,6 +147,7 @@
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/vyshnavi9241/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0032-longest-valid-parentheses](https://github.com/vyshnavi9241/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0091-decode-ways](https://github.com/vyshnavi9241/leetcode/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/vyshnavi9241/leetcode/tree/master/0131-palindrome-partitioning) |
