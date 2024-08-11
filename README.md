@@ -155,6 +155,7 @@
 | [0008-string-to-integer-atoi](https://github.com/vyshnavi9241/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/vyshnavi9241/leetcode/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/vyshnavi9241/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/vyshnavi9241/leetcode/tree/master/0043-multiply-strings) |
 | [0091-decode-ways](https://github.com/vyshnavi9241/leetcode/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/vyshnavi9241/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vyshnavi9241/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -187,6 +188,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/vyshnavi9241/leetcode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/vyshnavi9241/leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/vyshnavi9241/leetcode/tree/master/0043-multiply-strings) |
 | [0096-unique-binary-search-trees](https://github.com/vyshnavi9241/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0279-perfect-squares](https://github.com/vyshnavi9241/leetcode/tree/master/0279-perfect-squares) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/vyshnavi9241/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -310,6 +312,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/vyshnavi9241/leetcode/tree/master/0043-multiply-strings) |
 | [0735-asteroid-collision](https://github.com/vyshnavi9241/leetcode/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/vyshnavi9241/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/vyshnavi9241/leetcode/tree/master/2470-removing-stars-from-a-string) |
