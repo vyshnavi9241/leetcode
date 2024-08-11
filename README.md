@@ -9,6 +9,7 @@
 | [0018-4sum](https://github.com/vyshnavi9241/leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/vyshnavi9241/leetcode/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/vyshnavi9241/leetcode/tree/master/0041-first-missing-positive) |
+| [0047-permutations-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/vyshnavi9241/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/vyshnavi9241/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/vyshnavi9241/leetcode/tree/master/0075-sort-colors) |
@@ -232,6 +233,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/vyshnavi9241/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/vyshnavi9241/leetcode/tree/master/0078-subsets) |
 | [0095-unique-binary-search-trees-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
