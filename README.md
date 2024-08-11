@@ -193,6 +193,7 @@
 | [0007-reverse-integer](https://github.com/vyshnavi9241/leetcode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/vyshnavi9241/leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/vyshnavi9241/leetcode/tree/master/0043-multiply-strings) |
+| [0060-permutation-sequence](https://github.com/vyshnavi9241/leetcode/tree/master/0060-permutation-sequence) |
 | [0096-unique-binary-search-trees](https://github.com/vyshnavi9241/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0279-perfect-squares](https://github.com/vyshnavi9241/leetcode/tree/master/0279-perfect-squares) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/vyshnavi9241/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -340,6 +341,7 @@
 | [0010-regular-expression-matching](https://github.com/vyshnavi9241/leetcode/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/vyshnavi9241/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/vyshnavi9241/leetcode/tree/master/0044-wildcard-matching) |
+| [0060-permutation-sequence](https://github.com/vyshnavi9241/leetcode/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/vyshnavi9241/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vyshnavi9241/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/vyshnavi9241/leetcode/tree/master/0394-decode-string) |
