@@ -14,6 +14,7 @@
 | [0053-maximum-subarray](https://github.com/vyshnavi9241/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/vyshnavi9241/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/vyshnavi9241/leetcode/tree/master/0078-subsets) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vyshnavi9241/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/vyshnavi9241/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/vyshnavi9241/leetcode/tree/master/0118-pascals-triangle) |
@@ -126,6 +127,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/vyshnavi9241/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0354-russian-doll-envelopes](https://github.com/vyshnavi9241/leetcode/tree/master/0354-russian-doll-envelopes) |
