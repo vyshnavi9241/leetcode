@@ -70,6 +70,7 @@
 | [0044-wildcard-matching](https://github.com/vyshnavi9241/leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/vyshnavi9241/leetcode/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/vyshnavi9241/leetcode/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/vyshnavi9241/leetcode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/vyshnavi9241/leetcode/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/vyshnavi9241/leetcode/tree/master/0096-unique-binary-search-trees) |
@@ -164,6 +165,7 @@
 | [0043-multiply-strings](https://github.com/vyshnavi9241/leetcode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/vyshnavi9241/leetcode/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/vyshnavi9241/leetcode/tree/master/0065-valid-number) |
+| [0087-scramble-string](https://github.com/vyshnavi9241/leetcode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/vyshnavi9241/leetcode/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/vyshnavi9241/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vyshnavi9241/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
