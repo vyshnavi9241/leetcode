@@ -20,6 +20,7 @@
 | [0088-merge-sorted-array](https://github.com/vyshnavi9241/leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/vyshnavi9241/leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/vyshnavi9241/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0216-combination-sum-iii](https://github.com/vyshnavi9241/leetcode/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/vyshnavi9241/leetcode/tree/master/0239-sliding-window-maximum) |
@@ -76,6 +77,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/vyshnavi9241/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/vyshnavi9241/leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0131-palindrome-partitioning](https://github.com/vyshnavi9241/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/vyshnavi9241/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0279-perfect-squares](https://github.com/vyshnavi9241/leetcode/tree/master/0279-perfect-squares) |
