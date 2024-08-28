@@ -226,6 +226,7 @@
 | [0110-balanced-binary-tree](https://github.com/vyshnavi9241/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/vyshnavi9241/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vyshnavi9241/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/vyshnavi9241/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0337-house-robber-iii](https://github.com/vyshnavi9241/leetcode/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/vyshnavi9241/leetcode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/vyshnavi9241/leetcode/tree/master/0450-delete-node-in-a-bst) |
@@ -254,6 +255,7 @@
 | [0110-balanced-binary-tree](https://github.com/vyshnavi9241/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/vyshnavi9241/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vyshnavi9241/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/vyshnavi9241/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0337-house-robber-iii](https://github.com/vyshnavi9241/leetcode/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/vyshnavi9241/leetcode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/vyshnavi9241/leetcode/tree/master/0450-delete-node-in-a-bst) |
@@ -283,6 +285,7 @@
 | [0110-balanced-binary-tree](https://github.com/vyshnavi9241/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/vyshnavi9241/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vyshnavi9241/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/vyshnavi9241/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0337-house-robber-iii](https://github.com/vyshnavi9241/leetcode/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/vyshnavi9241/leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/vyshnavi9241/leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -376,6 +379,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/vyshnavi9241/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/vyshnavi9241/leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vyshnavi9241/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/vyshnavi9241/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/vyshnavi9241/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/vyshnavi9241/leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/vyshnavi9241/leetcode/tree/master/0735-asteroid-collision) |
