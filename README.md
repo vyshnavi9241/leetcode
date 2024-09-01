@@ -24,6 +24,7 @@
 | [0140-word-break-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/vyshnavi9241/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/vyshnavi9241/leetcode/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/vyshnavi9241/leetcode/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/vyshnavi9241/leetcode/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/vyshnavi9241/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -219,6 +220,7 @@
 | [0089-gray-code](https://github.com/vyshnavi9241/leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/vyshnavi9241/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0166-fraction-to-recurring-decimal](https://github.com/vyshnavi9241/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0204-count-primes](https://github.com/vyshnavi9241/leetcode/tree/master/0204-count-primes) |
 | [0279-perfect-squares](https://github.com/vyshnavi9241/leetcode/tree/master/0279-perfect-squares) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/vyshnavi9241/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Tree
@@ -550,4 +552,12 @@
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0140-word-break-ii) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vyshnavi9241/leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vyshnavi9241/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
