@@ -27,6 +27,7 @@
 | [0179-largest-number](https://github.com/vyshnavi9241/leetcode/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/vyshnavi9241/leetcode/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/vyshnavi9241/leetcode/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/vyshnavi9241/leetcode/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/vyshnavi9241/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/vyshnavi9241/leetcode/tree/master/0283-move-zeroes) |
@@ -126,6 +127,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vyshnavi9241/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/vyshnavi9241/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0217-contains-duplicate](https://github.com/vyshnavi9241/leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/vyshnavi9241/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vyshnavi9241/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/vyshnavi9241/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -161,6 +163,7 @@
 | [0088-merge-sorted-array](https://github.com/vyshnavi9241/leetcode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/vyshnavi9241/leetcode/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/vyshnavi9241/leetcode/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/vyshnavi9241/leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/vyshnavi9241/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/vyshnavi9241/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0435-non-overlapping-intervals](https://github.com/vyshnavi9241/leetcode/tree/master/0435-non-overlapping-intervals) |
