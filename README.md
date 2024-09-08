@@ -234,6 +234,7 @@
 | [0204-count-primes](https://github.com/vyshnavi9241/leetcode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/vyshnavi9241/leetcode/tree/master/0223-rectangle-area) |
 | [0227-basic-calculator-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/vyshnavi9241/leetcode/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/vyshnavi9241/leetcode/tree/master/0279-perfect-squares) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/vyshnavi9241/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Tree
@@ -425,6 +426,7 @@
 | [0060-permutation-sequence](https://github.com/vyshnavi9241/leetcode/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/vyshnavi9241/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/vyshnavi9241/leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/vyshnavi9241/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/vyshnavi9241/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/vyshnavi9241/leetcode/tree/master/0394-decode-string) |
 ## Queue
@@ -501,6 +503,7 @@
 | [0078-subsets](https://github.com/vyshnavi9241/leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/vyshnavi9241/leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/vyshnavi9241/leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/vyshnavi9241/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/vyshnavi9241/leetcode/tree/master/0338-counting-bits) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/vyshnavi9241/leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
