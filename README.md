@@ -228,6 +228,7 @@
 | [0096-unique-binary-search-trees](https://github.com/vyshnavi9241/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0166-fraction-to-recurring-decimal](https://github.com/vyshnavi9241/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0204-count-primes](https://github.com/vyshnavi9241/leetcode/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/vyshnavi9241/leetcode/tree/master/0223-rectangle-area) |
 | [0279-perfect-squares](https://github.com/vyshnavi9241/leetcode/tree/master/0279-perfect-squares) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/vyshnavi9241/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Tree
@@ -581,4 +582,8 @@
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/vyshnavi9241/leetcode/tree/master/0220-contains-duplicate-iii) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/vyshnavi9241/leetcode/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
