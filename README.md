@@ -88,6 +88,7 @@
 | [0131-palindrome-partitioning](https://github.com/vyshnavi9241/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/vyshnavi9241/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0241-different-ways-to-add-parentheses](https://github.com/vyshnavi9241/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/vyshnavi9241/leetcode/tree/master/0279-perfect-squares) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/vyshnavi9241/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0337-house-robber-iii](https://github.com/vyshnavi9241/leetcode/tree/master/0337-house-robber-iii) |
@@ -194,6 +195,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/vyshnavi9241/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/vyshnavi9241/leetcode/tree/master/0179-largest-number) |
 | [0227-basic-calculator-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0227-basic-calculator-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/vyshnavi9241/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vyshnavi9241/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/vyshnavi9241/leetcode/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vyshnavi9241/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -235,6 +237,7 @@
 | [0223-rectangle-area](https://github.com/vyshnavi9241/leetcode/tree/master/0223-rectangle-area) |
 | [0227-basic-calculator-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/vyshnavi9241/leetcode/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/vyshnavi9241/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/vyshnavi9241/leetcode/tree/master/0279-perfect-squares) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/vyshnavi9241/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Tree
@@ -433,6 +436,7 @@
 | [0206-reverse-linked-list](https://github.com/vyshnavi9241/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/vyshnavi9241/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/vyshnavi9241/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/vyshnavi9241/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0394-decode-string](https://github.com/vyshnavi9241/leetcode/tree/master/0394-decode-string) |
 ## Queue
 |  |
@@ -586,6 +590,7 @@
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0140-word-break-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/vyshnavi9241/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Enumeration
 |  |
 | ------- |
