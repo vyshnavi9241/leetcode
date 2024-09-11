@@ -32,6 +32,7 @@
 | [0229-majority-element-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/vyshnavi9241/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/vyshnavi9241/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vyshnavi9241/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/vyshnavi9241/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/vyshnavi9241/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -132,6 +133,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/vyshnavi9241/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0217-contains-duplicate](https://github.com/vyshnavi9241/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/vyshnavi9241/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/vyshnavi9241/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vyshnavi9241/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/vyshnavi9241/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -149,6 +151,7 @@
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/vyshnavi9241/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/vyshnavi9241/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0354-russian-doll-envelopes](https://github.com/vyshnavi9241/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0374-guess-number-higher-or-lower](https://github.com/vyshnavi9241/leetcode/tree/master/0374-guess-number-higher-or-lower) |
@@ -170,6 +173,7 @@
 | [0217-contains-duplicate](https://github.com/vyshnavi9241/leetcode/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/vyshnavi9241/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/vyshnavi9241/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/vyshnavi9241/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/vyshnavi9241/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0435-non-overlapping-intervals](https://github.com/vyshnavi9241/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -238,6 +242,7 @@
 | [0227-basic-calculator-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/vyshnavi9241/leetcode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/vyshnavi9241/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0268-missing-number](https://github.com/vyshnavi9241/leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/vyshnavi9241/leetcode/tree/master/0279-perfect-squares) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/vyshnavi9241/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Tree
@@ -515,6 +520,7 @@
 | [0089-gray-code](https://github.com/vyshnavi9241/leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/vyshnavi9241/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/vyshnavi9241/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/vyshnavi9241/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/vyshnavi9241/leetcode/tree/master/0338-counting-bits) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/vyshnavi9241/leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
