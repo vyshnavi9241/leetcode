@@ -250,6 +250,7 @@
 | [0273-integer-to-english-words](https://github.com/vyshnavi9241/leetcode/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/vyshnavi9241/leetcode/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/vyshnavi9241/leetcode/tree/master/0282-expression-add-operators) |
+| [0292-nim-game](https://github.com/vyshnavi9241/leetcode/tree/master/0292-nim-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/vyshnavi9241/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Tree
 |  |
@@ -625,4 +626,12 @@
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/vyshnavi9241/leetcode/tree/master/0223-rectangle-area) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/vyshnavi9241/leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/vyshnavi9241/leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
