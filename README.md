@@ -205,6 +205,7 @@
 | [0273-integer-to-english-words](https://github.com/vyshnavi9241/leetcode/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/vyshnavi9241/leetcode/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/vyshnavi9241/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/vyshnavi9241/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vyshnavi9241/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/vyshnavi9241/leetcode/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vyshnavi9241/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -324,6 +325,7 @@
 | [0140-word-break-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/vyshnavi9241/leetcode/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/vyshnavi9241/leetcode/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/vyshnavi9241/leetcode/tree/master/0301-remove-invalid-parentheses) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -354,6 +356,7 @@
 | [0126-word-ladder-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0126-word-ladder-ii) |
 | [0279-perfect-squares](https://github.com/vyshnavi9241/leetcode/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/vyshnavi9241/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/vyshnavi9241/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0547-number-of-provinces](https://github.com/vyshnavi9241/leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vyshnavi9241/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0871-keys-and-rooms](https://github.com/vyshnavi9241/leetcode/tree/master/0871-keys-and-rooms) |
