@@ -206,6 +206,7 @@
 | [0282-expression-add-operators](https://github.com/vyshnavi9241/leetcode/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/vyshnavi9241/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/vyshnavi9241/leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [0306-additive-number](https://github.com/vyshnavi9241/leetcode/tree/master/0306-additive-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vyshnavi9241/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/vyshnavi9241/leetcode/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vyshnavi9241/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -326,6 +327,7 @@
 | [0216-combination-sum-iii](https://github.com/vyshnavi9241/leetcode/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/vyshnavi9241/leetcode/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/vyshnavi9241/leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [0306-additive-number](https://github.com/vyshnavi9241/leetcode/tree/master/0306-additive-number) |
 ## Depth-First Search
 |  |
 | ------- |
