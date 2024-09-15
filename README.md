@@ -36,6 +36,7 @@
 | [0275-h-index-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/vyshnavi9241/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/vyshnavi9241/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0307-range-sum-query-mutable](https://github.com/vyshnavi9241/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/vyshnavi9241/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0334-increasing-triplet-subsequence](https://github.com/vyshnavi9241/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/vyshnavi9241/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -117,11 +118,13 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/vyshnavi9241/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vyshnavi9241/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/vyshnavi9241/leetcode/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/vyshnavi9241/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vyshnavi9241/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Hash Table
 |  |
@@ -476,6 +479,7 @@
 | [0225-implement-stack-using-queues](https://github.com/vyshnavi9241/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vyshnavi9241/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/vyshnavi9241/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0307-range-sum-query-mutable](https://github.com/vyshnavi9241/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0937-online-stock-span](https://github.com/vyshnavi9241/leetcode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/vyshnavi9241/leetcode/tree/master/0969-number-of-recent-calls) |
 | [2413-smallest-number-in-infinite-set](https://github.com/vyshnavi9241/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
