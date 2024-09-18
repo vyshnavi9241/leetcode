@@ -39,6 +39,7 @@
 | [0307-range-sum-query-mutable](https://github.com/vyshnavi9241/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/vyshnavi9241/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/vyshnavi9241/leetcode/tree/master/0312-burst-balloons) |
+| [0313-super-ugly-number](https://github.com/vyshnavi9241/leetcode/tree/master/0313-super-ugly-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/vyshnavi9241/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/vyshnavi9241/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/vyshnavi9241/leetcode/tree/master/0354-russian-doll-envelopes) |
@@ -96,6 +97,7 @@
 | [0279-perfect-squares](https://github.com/vyshnavi9241/leetcode/tree/master/0279-perfect-squares) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/vyshnavi9241/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/vyshnavi9241/leetcode/tree/master/0312-burst-balloons) |
+| [0313-super-ugly-number](https://github.com/vyshnavi9241/leetcode/tree/master/0313-super-ugly-number) |
 | [0337-house-robber-iii](https://github.com/vyshnavi9241/leetcode/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/vyshnavi9241/leetcode/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/vyshnavi9241/leetcode/tree/master/0354-russian-doll-envelopes) |
@@ -259,6 +261,7 @@
 | [0279-perfect-squares](https://github.com/vyshnavi9241/leetcode/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/vyshnavi9241/leetcode/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/vyshnavi9241/leetcode/tree/master/0292-nim-game) |
+| [0313-super-ugly-number](https://github.com/vyshnavi9241/leetcode/tree/master/0313-super-ugly-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/vyshnavi9241/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Tree
 |  |
