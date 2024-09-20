@@ -41,6 +41,7 @@
 | [0312-burst-balloons](https://github.com/vyshnavi9241/leetcode/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/vyshnavi9241/leetcode/tree/master/0313-super-ugly-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/vyshnavi9241/leetcode/tree/master/0318-maximum-product-of-word-lengths) |
+| [0321-create-maximum-number](https://github.com/vyshnavi9241/leetcode/tree/master/0321-create-maximum-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/vyshnavi9241/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/vyshnavi9241/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/vyshnavi9241/leetcode/tree/master/0354-russian-doll-envelopes) |
@@ -238,6 +239,7 @@
 | [0044-wildcard-matching](https://github.com/vyshnavi9241/leetcode/tree/master/0044-wildcard-matching) |
 | [0179-largest-number](https://github.com/vyshnavi9241/leetcode/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/vyshnavi9241/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/vyshnavi9241/leetcode/tree/master/0321-create-maximum-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/vyshnavi9241/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/vyshnavi9241/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/vyshnavi9241/leetcode/tree/master/0605-can-place-flowers) |
@@ -393,6 +395,7 @@
 | [0234-palindrome-linked-list](https://github.com/vyshnavi9241/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/vyshnavi9241/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/vyshnavi9241/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0321-create-maximum-number](https://github.com/vyshnavi9241/leetcode/tree/master/0321-create-maximum-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vyshnavi9241/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/vyshnavi9241/leetcode/tree/master/0443-string-compression) |
 | [0768-partition-labels](https://github.com/vyshnavi9241/leetcode/tree/master/0768-partition-labels) |
@@ -456,6 +459,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/vyshnavi9241/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/vyshnavi9241/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/vyshnavi9241/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/vyshnavi9241/leetcode/tree/master/0321-create-maximum-number) |
 | [0394-decode-string](https://github.com/vyshnavi9241/leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/vyshnavi9241/leetcode/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/vyshnavi9241/leetcode/tree/master/0937-online-stock-span) |
@@ -541,6 +545,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/vyshnavi9241/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/vyshnavi9241/leetcode/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/vyshnavi9241/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/vyshnavi9241/leetcode/tree/master/0321-create-maximum-number) |
 | [0937-online-stock-span](https://github.com/vyshnavi9241/leetcode/tree/master/0937-online-stock-span) |
 ## Trie
 |  |
