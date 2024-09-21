@@ -271,6 +271,7 @@
 | [0282-expression-add-operators](https://github.com/vyshnavi9241/leetcode/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/vyshnavi9241/leetcode/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/vyshnavi9241/leetcode/tree/master/0313-super-ugly-number) |
+| [0326-power-of-three](https://github.com/vyshnavi9241/leetcode/tree/master/0326-power-of-three) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/vyshnavi9241/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Tree
 |  |
@@ -481,6 +482,7 @@
 | [0234-palindrome-linked-list](https://github.com/vyshnavi9241/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/vyshnavi9241/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/vyshnavi9241/leetcode/tree/master/0273-integer-to-english-words) |
+| [0326-power-of-three](https://github.com/vyshnavi9241/leetcode/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/vyshnavi9241/leetcode/tree/master/0394-decode-string) |
 ## Queue
 |  |
