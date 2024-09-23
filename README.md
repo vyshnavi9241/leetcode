@@ -44,6 +44,7 @@
 | [0321-create-maximum-number](https://github.com/vyshnavi9241/leetcode/tree/master/0321-create-maximum-number) |
 | [0324-wiggle-sort-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vyshnavi9241/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0330-patching-array](https://github.com/vyshnavi9241/leetcode/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/vyshnavi9241/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/vyshnavi9241/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/vyshnavi9241/leetcode/tree/master/0354-russian-doll-envelopes) |
@@ -245,6 +246,7 @@
 | [0316-remove-duplicate-letters](https://github.com/vyshnavi9241/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/vyshnavi9241/leetcode/tree/master/0321-create-maximum-number) |
 | [0324-wiggle-sort-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0324-wiggle-sort-ii) |
+| [0330-patching-array](https://github.com/vyshnavi9241/leetcode/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/vyshnavi9241/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/vyshnavi9241/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/vyshnavi9241/leetcode/tree/master/0605-can-place-flowers) |
