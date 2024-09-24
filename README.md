@@ -46,6 +46,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vyshnavi9241/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/vyshnavi9241/leetcode/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/vyshnavi9241/leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0335-self-crossing](https://github.com/vyshnavi9241/leetcode/tree/master/0335-self-crossing) |
 | [0347-top-k-frequent-elements](https://github.com/vyshnavi9241/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/vyshnavi9241/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/vyshnavi9241/leetcode/tree/master/0377-combination-sum-iv) |
@@ -277,6 +278,7 @@
 | [0292-nim-game](https://github.com/vyshnavi9241/leetcode/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/vyshnavi9241/leetcode/tree/master/0313-super-ugly-number) |
 | [0326-power-of-three](https://github.com/vyshnavi9241/leetcode/tree/master/0326-power-of-three) |
+| [0335-self-crossing](https://github.com/vyshnavi9241/leetcode/tree/master/0335-self-crossing) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/vyshnavi9241/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Tree
 |  |
@@ -678,6 +680,7 @@
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/vyshnavi9241/leetcode/tree/master/0223-rectangle-area) |
+| [0335-self-crossing](https://github.com/vyshnavi9241/leetcode/tree/master/0335-self-crossing) |
 ## Brainteaser
 |  |
 | ------- |
