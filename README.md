@@ -49,6 +49,7 @@
 | [0335-self-crossing](https://github.com/vyshnavi9241/leetcode/tree/master/0335-self-crossing) |
 | [0336-palindrome-pairs](https://github.com/vyshnavi9241/leetcode/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/vyshnavi9241/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/vyshnavi9241/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/vyshnavi9241/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/vyshnavi9241/leetcode/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/vyshnavi9241/leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -152,6 +153,7 @@
 | [0268-missing-number](https://github.com/vyshnavi9241/leetcode/tree/master/0268-missing-number) |
 | [0336-palindrome-pairs](https://github.com/vyshnavi9241/leetcode/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/vyshnavi9241/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/vyshnavi9241/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vyshnavi9241/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/vyshnavi9241/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0768-partition-labels](https://github.com/vyshnavi9241/leetcode/tree/master/0768-partition-labels) |
@@ -171,6 +173,7 @@
 | [0268-missing-number](https://github.com/vyshnavi9241/leetcode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/vyshnavi9241/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/vyshnavi9241/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/vyshnavi9241/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0374-guess-number-higher-or-lower](https://github.com/vyshnavi9241/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0907-koko-eating-bananas](https://github.com/vyshnavi9241/leetcode/tree/master/0907-koko-eating-bananas) |
@@ -194,6 +197,7 @@
 | [0268-missing-number](https://github.com/vyshnavi9241/leetcode/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/vyshnavi9241/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/vyshnavi9241/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/vyshnavi9241/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0435-non-overlapping-intervals](https://github.com/vyshnavi9241/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1397-search-suggestions-system](https://github.com/vyshnavi9241/leetcode/tree/master/1397-search-suggestions-system) |
@@ -417,6 +421,7 @@
 | [0287-find-the-duplicate-number](https://github.com/vyshnavi9241/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0321-create-maximum-number](https://github.com/vyshnavi9241/leetcode/tree/master/0321-create-maximum-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vyshnavi9241/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/vyshnavi9241/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/vyshnavi9241/leetcode/tree/master/0443-string-compression) |
 | [0768-partition-labels](https://github.com/vyshnavi9241/leetcode/tree/master/0768-partition-labels) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vyshnavi9241/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
