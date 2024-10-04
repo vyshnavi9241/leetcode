@@ -111,6 +111,7 @@
 | [0337-house-robber-iii](https://github.com/vyshnavi9241/leetcode/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/vyshnavi9241/leetcode/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/vyshnavi9241/leetcode/tree/master/0354-russian-doll-envelopes) |
+| [0357-count-numbers-with-unique-digits](https://github.com/vyshnavi9241/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0377-combination-sum-iv](https://github.com/vyshnavi9241/leetcode/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/vyshnavi9241/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/vyshnavi9241/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -292,6 +293,7 @@
 | [0313-super-ugly-number](https://github.com/vyshnavi9241/leetcode/tree/master/0313-super-ugly-number) |
 | [0326-power-of-three](https://github.com/vyshnavi9241/leetcode/tree/master/0326-power-of-three) |
 | [0335-self-crossing](https://github.com/vyshnavi9241/leetcode/tree/master/0335-self-crossing) |
+| [0357-count-numbers-with-unique-digits](https://github.com/vyshnavi9241/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/vyshnavi9241/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Tree
 |  |
@@ -369,6 +371,7 @@
 | [0282-expression-add-operators](https://github.com/vyshnavi9241/leetcode/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/vyshnavi9241/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/vyshnavi9241/leetcode/tree/master/0306-additive-number) |
+| [0357-count-numbers-with-unique-digits](https://github.com/vyshnavi9241/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 ## Depth-First Search
 |  |
 | ------- |
