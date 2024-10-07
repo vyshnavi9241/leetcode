@@ -294,6 +294,7 @@
 | [0326-power-of-three](https://github.com/vyshnavi9241/leetcode/tree/master/0326-power-of-three) |
 | [0335-self-crossing](https://github.com/vyshnavi9241/leetcode/tree/master/0335-self-crossing) |
 | [0357-count-numbers-with-unique-digits](https://github.com/vyshnavi9241/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0365-water-and-jug-problem](https://github.com/vyshnavi9241/leetcode/tree/master/0365-water-and-jug-problem) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/vyshnavi9241/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Tree
 |  |
@@ -386,6 +387,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vyshnavi9241/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/vyshnavi9241/leetcode/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/vyshnavi9241/leetcode/tree/master/0341-flatten-nested-list-iterator) |
+| [0365-water-and-jug-problem](https://github.com/vyshnavi9241/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0437-path-sum-iii](https://github.com/vyshnavi9241/leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/vyshnavi9241/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/vyshnavi9241/leetcode/tree/master/0547-number-of-provinces) |
@@ -406,6 +408,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/vyshnavi9241/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/vyshnavi9241/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vyshnavi9241/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0365-water-and-jug-problem](https://github.com/vyshnavi9241/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0547-number-of-provinces](https://github.com/vyshnavi9241/leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vyshnavi9241/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0871-keys-and-rooms](https://github.com/vyshnavi9241/leetcode/tree/master/0871-keys-and-rooms) |
