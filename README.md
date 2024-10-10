@@ -180,6 +180,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/vyshnavi9241/leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0354-russian-doll-envelopes](https://github.com/vyshnavi9241/leetcode/tree/master/0354-russian-doll-envelopes) |
+| [0367-valid-perfect-square](https://github.com/vyshnavi9241/leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/vyshnavi9241/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0907-koko-eating-bananas](https://github.com/vyshnavi9241/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/vyshnavi9241/leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -295,6 +296,7 @@
 | [0335-self-crossing](https://github.com/vyshnavi9241/leetcode/tree/master/0335-self-crossing) |
 | [0357-count-numbers-with-unique-digits](https://github.com/vyshnavi9241/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0365-water-and-jug-problem](https://github.com/vyshnavi9241/leetcode/tree/master/0365-water-and-jug-problem) |
+| [0367-valid-perfect-square](https://github.com/vyshnavi9241/leetcode/tree/master/0367-valid-perfect-square) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/vyshnavi9241/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Tree
 |  |
