@@ -165,6 +165,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/vyshnavi9241/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/vyshnavi9241/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0387-first-unique-character-in-a-string](https://github.com/vyshnavi9241/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vyshnavi9241/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/vyshnavi9241/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0768-partition-labels](https://github.com/vyshnavi9241/leetcode/tree/master/0768-partition-labels) |
@@ -251,6 +252,7 @@
 | [0344-reverse-string](https://github.com/vyshnavi9241/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vyshnavi9241/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0385-mini-parser](https://github.com/vyshnavi9241/leetcode/tree/master/0385-mini-parser) |
+| [0387-first-unique-character-in-a-string](https://github.com/vyshnavi9241/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/vyshnavi9241/leetcode/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vyshnavi9241/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/vyshnavi9241/leetcode/tree/master/0443-string-compression) |
@@ -485,6 +487,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/vyshnavi9241/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/vyshnavi9241/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/vyshnavi9241/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Matrix
 |  |
@@ -549,6 +552,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/vyshnavi9241/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/vyshnavi9241/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0341-flatten-nested-list-iterator](https://github.com/vyshnavi9241/leetcode/tree/master/0341-flatten-nested-list-iterator) |
+| [0387-first-unique-character-in-a-string](https://github.com/vyshnavi9241/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/vyshnavi9241/leetcode/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/vyshnavi9241/leetcode/tree/master/0969-number-of-recent-calls) |
 ## Design
