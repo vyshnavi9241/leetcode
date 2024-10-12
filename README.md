@@ -55,6 +55,7 @@
 | [0368-largest-divisible-subset](https://github.com/vyshnavi9241/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/vyshnavi9241/leetcode/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/vyshnavi9241/leetcode/tree/master/0377-combination-sum-iv) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/vyshnavi9241/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0416-partition-equal-subset-sum](https://github.com/vyshnavi9241/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/vyshnavi9241/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/vyshnavi9241/leetcode/tree/master/0474-ones-and-zeroes) |
@@ -162,6 +163,7 @@
 | [0347-top-k-frequent-elements](https://github.com/vyshnavi9241/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vyshnavi9241/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/vyshnavi9241/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vyshnavi9241/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/vyshnavi9241/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0768-partition-labels](https://github.com/vyshnavi9241/leetcode/tree/master/0768-partition-labels) |
@@ -306,6 +308,7 @@
 | [0367-valid-perfect-square](https://github.com/vyshnavi9241/leetcode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/vyshnavi9241/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/vyshnavi9241/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/vyshnavi9241/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Tree
 |  |
@@ -551,6 +554,7 @@
 | [0307-range-sum-query-mutable](https://github.com/vyshnavi9241/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/vyshnavi9241/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/vyshnavi9241/leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/vyshnavi9241/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0937-online-stock-span](https://github.com/vyshnavi9241/leetcode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/vyshnavi9241/leetcode/tree/master/0969-number-of-recent-calls) |
 | [2413-smallest-number-in-infinite-set](https://github.com/vyshnavi9241/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
@@ -739,4 +743,8 @@
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/vyshnavi9241/leetcode/tree/master/0341-flatten-nested-list-iterator) |
+## Randomized
+|  |
+| ------- |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/vyshnavi9241/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 <!---LeetCode Topics End-->
