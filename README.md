@@ -114,6 +114,7 @@
 | [0354-russian-doll-envelopes](https://github.com/vyshnavi9241/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0357-count-numbers-with-unique-digits](https://github.com/vyshnavi9241/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/vyshnavi9241/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0377-combination-sum-iv](https://github.com/vyshnavi9241/leetcode/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/vyshnavi9241/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/vyshnavi9241/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -301,6 +302,7 @@
 | [0365-water-and-jug-problem](https://github.com/vyshnavi9241/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/vyshnavi9241/leetcode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/vyshnavi9241/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/vyshnavi9241/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Tree
 |  |
@@ -725,6 +727,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/vyshnavi9241/leetcode/tree/master/0292-nim-game) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 ## Topological Sort
 |  |
 | ------- |
