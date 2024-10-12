@@ -406,6 +406,7 @@
 | [0341-flatten-nested-list-iterator](https://github.com/vyshnavi9241/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0365-water-and-jug-problem](https://github.com/vyshnavi9241/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0385-mini-parser](https://github.com/vyshnavi9241/leetcode/tree/master/0385-mini-parser) |
+| [0386-lexicographical-numbers](https://github.com/vyshnavi9241/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0437-path-sum-iii](https://github.com/vyshnavi9241/leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/vyshnavi9241/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/vyshnavi9241/leetcode/tree/master/0547-number-of-provinces) |
@@ -619,6 +620,7 @@
 | ------- |
 | [0140-word-break-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0140-word-break-ii) |
 | [0336-palindrome-pairs](https://github.com/vyshnavi9241/leetcode/tree/master/0336-palindrome-pairs) |
+| [0386-lexicographical-numbers](https://github.com/vyshnavi9241/leetcode/tree/master/0386-lexicographical-numbers) |
 | [1397-search-suggestions-system](https://github.com/vyshnavi9241/leetcode/tree/master/1397-search-suggestions-system) |
 ## Bit Manipulation
 |  |
