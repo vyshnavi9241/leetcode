@@ -314,6 +314,7 @@
 | [0375-guess-number-higher-or-lower-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/vyshnavi9241/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/vyshnavi9241/leetcode/tree/master/0384-shuffle-an-array) |
+| [0390-elimination-game](https://github.com/vyshnavi9241/leetcode/tree/master/0390-elimination-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/vyshnavi9241/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Tree
 |  |
@@ -544,6 +545,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/vyshnavi9241/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/vyshnavi9241/leetcode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/vyshnavi9241/leetcode/tree/master/0326-power-of-three) |
+| [0390-elimination-game](https://github.com/vyshnavi9241/leetcode/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/vyshnavi9241/leetcode/tree/master/0394-decode-string) |
 ## Queue
 |  |
