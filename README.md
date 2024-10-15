@@ -169,6 +169,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/vyshnavi9241/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0387-first-unique-character-in-a-string](https://github.com/vyshnavi9241/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0398-random-pick-index](https://github.com/vyshnavi9241/leetcode/tree/master/0398-random-pick-index) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vyshnavi9241/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/vyshnavi9241/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0768-partition-labels](https://github.com/vyshnavi9241/leetcode/tree/master/0768-partition-labels) |
@@ -320,6 +321,7 @@
 | [0384-shuffle-an-array](https://github.com/vyshnavi9241/leetcode/tree/master/0384-shuffle-an-array) |
 | [0390-elimination-game](https://github.com/vyshnavi9241/leetcode/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/vyshnavi9241/leetcode/tree/master/0396-rotate-function) |
+| [0398-random-pick-index](https://github.com/vyshnavi9241/leetcode/tree/master/0398-random-pick-index) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/vyshnavi9241/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Tree
 |  |
@@ -768,4 +770,9 @@
 | ------- |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/vyshnavi9241/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/vyshnavi9241/leetcode/tree/master/0384-shuffle-an-array) |
+| [0398-random-pick-index](https://github.com/vyshnavi9241/leetcode/tree/master/0398-random-pick-index) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/vyshnavi9241/leetcode/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
