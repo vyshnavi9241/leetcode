@@ -400,6 +400,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/vyshnavi9241/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/vyshnavi9241/leetcode/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/vyshnavi9241/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0401-binary-watch](https://github.com/vyshnavi9241/leetcode/tree/master/0401-binary-watch) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -648,6 +649,7 @@
 | [0318-maximum-product-of-word-lengths](https://github.com/vyshnavi9241/leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/vyshnavi9241/leetcode/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/vyshnavi9241/leetcode/tree/master/0397-integer-replacement) |
+| [0401-binary-watch](https://github.com/vyshnavi9241/leetcode/tree/master/0401-binary-watch) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/vyshnavi9241/leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Divide and Conquer
 |  |
