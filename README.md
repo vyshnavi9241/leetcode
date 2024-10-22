@@ -58,6 +58,7 @@
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/vyshnavi9241/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/vyshnavi9241/leetcode/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/vyshnavi9241/leetcode/tree/master/0396-rotate-function) |
+| [0414-third-maximum-number](https://github.com/vyshnavi9241/leetcode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/vyshnavi9241/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/vyshnavi9241/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/vyshnavi9241/leetcode/tree/master/0474-ones-and-zeroes) |
@@ -221,6 +222,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/vyshnavi9241/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/vyshnavi9241/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0414-third-maximum-number](https://github.com/vyshnavi9241/leetcode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/vyshnavi9241/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1397-search-suggestions-system](https://github.com/vyshnavi9241/leetcode/tree/master/1397-search-suggestions-system) |
 | [1777-determine-if-two-strings-are-close](https://github.com/vyshnavi9241/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
