@@ -265,6 +265,7 @@
 | [0409-longest-palindrome](https://github.com/vyshnavi9241/leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/vyshnavi9241/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/vyshnavi9241/leetcode/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/vyshnavi9241/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vyshnavi9241/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/vyshnavi9241/leetcode/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/vyshnavi9241/leetcode/tree/master/0474-ones-and-zeroes) |
