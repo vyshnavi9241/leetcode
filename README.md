@@ -338,6 +338,7 @@
 | [0412-fizz-buzz](https://github.com/vyshnavi9241/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/vyshnavi9241/leetcode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/vyshnavi9241/leetcode/tree/master/0441-arranging-coins) |
+| [0492-construct-the-rectangle](https://github.com/vyshnavi9241/leetcode/tree/master/0492-construct-the-rectangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/vyshnavi9241/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Tree
 |  |
