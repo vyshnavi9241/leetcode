@@ -65,6 +65,7 @@
 | [0463-island-perimeter](https://github.com/vyshnavi9241/leetcode/tree/master/0463-island-perimeter) |
 | [0474-ones-and-zeroes](https://github.com/vyshnavi9241/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0500-keyboard-row](https://github.com/vyshnavi9241/leetcode/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/vyshnavi9241/leetcode/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/vyshnavi9241/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/vyshnavi9241/leetcode/tree/master/0605-can-place-flowers) |
@@ -230,6 +231,7 @@
 | [0368-largest-divisible-subset](https://github.com/vyshnavi9241/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/vyshnavi9241/leetcode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/vyshnavi9241/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0506-relative-ranks](https://github.com/vyshnavi9241/leetcode/tree/master/0506-relative-ranks) |
 | [1397-search-suggestions-system](https://github.com/vyshnavi9241/leetcode/tree/master/1397-search-suggestions-system) |
 | [1777-determine-if-two-strings-are-close](https://github.com/vyshnavi9241/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vyshnavi9241/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -645,6 +647,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vyshnavi9241/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/vyshnavi9241/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/vyshnavi9241/leetcode/tree/master/0506-relative-ranks) |
 | [1397-search-suggestions-system](https://github.com/vyshnavi9241/leetcode/tree/master/1397-search-suggestions-system) |
 | [2413-smallest-number-in-infinite-set](https://github.com/vyshnavi9241/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/vyshnavi9241/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
