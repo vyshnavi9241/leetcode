@@ -274,6 +274,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/vyshnavi9241/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vyshnavi9241/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/vyshnavi9241/leetcode/tree/master/0443-string-compression) |
+| [0459-repeated-substring-pattern](https://github.com/vyshnavi9241/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/vyshnavi9241/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0500-keyboard-row](https://github.com/vyshnavi9241/leetcode/tree/master/0500-keyboard-row) |
 | [0649-dota2-senate](https://github.com/vyshnavi9241/leetcode/tree/master/0649-dota2-senate) |
@@ -810,4 +811,8 @@
 |  |
 | ------- |
 | [0398-random-pick-index](https://github.com/vyshnavi9241/leetcode/tree/master/0398-random-pick-index) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/vyshnavi9241/leetcode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
