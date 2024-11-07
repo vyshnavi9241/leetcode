@@ -278,6 +278,7 @@
 | [0443-string-compression](https://github.com/vyshnavi9241/leetcode/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/vyshnavi9241/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/vyshnavi9241/leetcode/tree/master/0474-ones-and-zeroes) |
+| [0482-license-key-formatting](https://github.com/vyshnavi9241/leetcode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/vyshnavi9241/leetcode/tree/master/0500-keyboard-row) |
 | [0649-dota2-senate](https://github.com/vyshnavi9241/leetcode/tree/master/0649-dota2-senate) |
 | [0768-partition-labels](https://github.com/vyshnavi9241/leetcode/tree/master/0768-partition-labels) |
