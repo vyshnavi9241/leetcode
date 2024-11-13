@@ -280,6 +280,7 @@
 | [0474-ones-and-zeroes](https://github.com/vyshnavi9241/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0482-license-key-formatting](https://github.com/vyshnavi9241/leetcode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/vyshnavi9241/leetcode/tree/master/0500-keyboard-row) |
+| [0520-detect-capital](https://github.com/vyshnavi9241/leetcode/tree/master/0520-detect-capital) |
 | [0649-dota2-senate](https://github.com/vyshnavi9241/leetcode/tree/master/0649-dota2-senate) |
 | [0768-partition-labels](https://github.com/vyshnavi9241/leetcode/tree/master/0768-partition-labels) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/vyshnavi9241/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
