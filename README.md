@@ -376,6 +376,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/vyshnavi9241/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/vyshnavi9241/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/vyshnavi9241/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/vyshnavi9241/leetcode/tree/master/0563-binary-tree-tilt) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vyshnavi9241/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/vyshnavi9241/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/vyshnavi9241/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -412,6 +413,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/vyshnavi9241/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/vyshnavi9241/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/vyshnavi9241/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/vyshnavi9241/leetcode/tree/master/0563-binary-tree-tilt) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vyshnavi9241/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/vyshnavi9241/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/vyshnavi9241/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -457,6 +459,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/vyshnavi9241/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/vyshnavi9241/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/vyshnavi9241/leetcode/tree/master/0547-number-of-provinces) |
+| [0563-binary-tree-tilt](https://github.com/vyshnavi9241/leetcode/tree/master/0563-binary-tree-tilt) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vyshnavi9241/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0871-keys-and-rooms](https://github.com/vyshnavi9241/leetcode/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/vyshnavi9241/leetcode/tree/master/0904-leaf-similar-trees) |
