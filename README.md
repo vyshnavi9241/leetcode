@@ -330,6 +330,7 @@
 | [0227-basic-calculator-ii](https://github.com/vyshnavi9241/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/vyshnavi9241/leetcode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/vyshnavi9241/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0258-add-digits](https://github.com/vyshnavi9241/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/vyshnavi9241/leetcode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/vyshnavi9241/leetcode/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/vyshnavi9241/leetcode/tree/master/0279-perfect-squares) |
@@ -552,6 +553,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/vyshnavi9241/leetcode/tree/master/0043-multiply-strings) |
+| [0258-add-digits](https://github.com/vyshnavi9241/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/vyshnavi9241/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/vyshnavi9241/leetcode/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/vyshnavi9241/leetcode/tree/master/0735-asteroid-collision) |
@@ -786,6 +788,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/vyshnavi9241/leetcode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/vyshnavi9241/leetcode/tree/master/0258-add-digits) |
 ## Radix Sort
 |  |
 | ------- |
